@@ -1,3 +1,5 @@
+![Build Status](https://github.com/idvitos/Wallee-home-assignment/actions/workflows/playwright-ci.yaml/badge.svg)
+
 # Wallee Practical Task
 
 This project implements automated UI tests for Wallee testing project using [Playwright](https://playwright.dev/).
