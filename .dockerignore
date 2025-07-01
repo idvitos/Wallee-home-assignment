@@ -1,0 +1,21 @@
+# Node modules shouldn't be copied (we install inside container)
+node_modules
+
+# Git and VCS
+.git
+.gitignore
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Editor settings
+.vscode
+
+# Local test results / artifacts
+playwright-report/
+test-results/
+coverage/
+.nyc_output/
