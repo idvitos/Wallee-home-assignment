@@ -1,10 +1,10 @@
-![Build Status](https://github.com/USERNAME/REPO/actions/workflows/playwright-ci.yml/badge.svg)
+![Build Status](https://github.com/idvitos/Wallee-home-assignment/actions/workflows/playwright-ci.yml/badge.svg)
 
 # Wallee Practical Task
 
 This project implements automated UI tests for Wallee testing project using [Playwright](https://playwright.dev/).
 
-✅ What is Covered?
+# What is Covered?
     ✅ Sorting products (price ascending/descending)
     ✅ Cart operations (add/remove, quantity update)
     ✅ Checkout form and iframe-based payment
